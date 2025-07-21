@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751729398134",
+    "project_id": "pushdown",
+    "storage_bucket": "pushdown.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751729398134:android:35caff68313cd171e7ea57",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBljITeE3i38w3zgVxlDYKqHH_sFRsNN60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
